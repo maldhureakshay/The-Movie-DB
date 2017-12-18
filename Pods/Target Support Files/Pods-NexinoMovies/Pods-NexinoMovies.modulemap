@@ -1,0 +1,6 @@
+framework module Pods_NexinoMovies {
+  umbrella header "Pods-NexinoMovies-umbrella.h"
+
+  export *
+  module * { export * }
+}
